@@ -1,6 +1,6 @@
 # Bill of Materials: DIY LiDAR Self-Driving Car (Upgraded Version)
 
-**Project Base**: [Instructables LiDAR Self-Driving Car](https://www.instructables.com/Can-You-Make-a-LiDAR-Self-Driving-Car/)  
+**Project Base Inspiration**: [Instructables LiDAR Self-Driving Car](https://www.instructables.com/Can-You-Make-a-LiDAR-Self-Driving-Car/)  
 **Key Upgrades**: TF-Luna LiDAR, Hybrid Sensor Fusion, ESP32 Processing  
 
 ## Core Components
