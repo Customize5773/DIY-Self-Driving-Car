@@ -1,5 +1,7 @@
 # DIY LiDAR Self-Driving Car
 
+![Self-Driving-Car](image/Image-2.png)
+
 **An open-source autonomous vehicle platform** featuring sensor fusion (LiDAR + Ultrasonic), real-time navigation, and collision avoidance - all powered by ESP32!
 
 ## Key Features
