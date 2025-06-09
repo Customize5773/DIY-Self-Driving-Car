@@ -24,8 +24,6 @@
 
 > Full BOM with links: [Hardware/Bill_of_Materials.md](Hardware/Bill_of_Materials.md)
 
-### Wiring Diagram
-
 ## Getting Started
 
 ### Prerequisites
