@@ -74,12 +74,12 @@ graph TD
     H --> B
 ```
 
-> Detailed flowchart: [Documentation/Autonomous_Logic_Flowchart.md](Documentation/Autonomous_Logic_Flowchart.png)
+> Detailed flowchart: [Documentation/Autonomous_Logic_Flowchart.png](Documentation/Autonomous_Logic_Flowchart.png)
 
 ## Build Instructions
 
 ### Step 1: Mechanical Assembly
-1. Print 3D models from [/3D_Models](3D_Models)
+1. Print 3D models
 2. Mount motors and wheels to chassis
 3. Install LiDAR at 15cm height with 30° forward tilt
 4. Position ultrasonic sensors: front (0°), left (+45°), right (-45°)
