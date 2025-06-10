@@ -76,7 +76,7 @@ graph TD
     H --> B
 ```
 
-> Detailed flowchart: [Documentation/Autonomous_Logic_Flowchart.png](Documentation/Autonomous_Logic_Flowchart.png)
+> Image flowchart: [Documentation/Autonomous_Logic_Flowchart.png](Documentation/Autonomous_Logic_Flowchart.png)
 
 ## Build Instructions
 
