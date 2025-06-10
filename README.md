@@ -36,7 +36,7 @@
 ### Installation
 ```bash
 # Clone repository
-git clone https://github.com/Rasrizkov/DIY-LiDAR-Car.git
+git clone https://github.com/Customize5773/DIY-Self-Driving-Car.git
 cd DIY-LiDAR-Car
 
 # Install dependencies
